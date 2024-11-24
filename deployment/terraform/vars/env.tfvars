@@ -8,7 +8,7 @@ staging_project_id = "second-conquest-442417-g7"
 cicd_runner_project_id = "cicd-ai-starter-pack-442623"
 
 # Name of the host connection you created in Cloud Build
-host_connection_name = "app-starter-pack"
+host_connection_name = "app-starter-pack-2"
 
 # Name of the repository you added to Cloud Build
 repository_name = "GhaithDek-app-starter-pack"
